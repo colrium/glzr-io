@@ -1,0 +1,14 @@
+{
+	"$schema": "https://github.com/glzr-io/zebar/raw/v2.4.0/resources/settings-schema.json",
+	"startupConfigs": [
+		{
+			"path": "starter/with-glazewm.zebar.json",
+			"preset": "default"
+		}
+	],
+	"border": {
+		"position": "bottom",
+		"color": "#0084ff",
+		"size": 1
+	}
+}
