@@ -250,11 +250,13 @@ workspaces:
       # display_name: ""
       display_name: 'work'
       bind_to_monitor: 0
+      keep_alive: true
 
     - name: '3'
       # display_name: "󰂺"
       display_name: 'comms'
       bind_to_monitor: 0
+      keep_alive: true
 
     - name: '4'
       # display_name: ""
